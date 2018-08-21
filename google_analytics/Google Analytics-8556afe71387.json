@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "trans-century-211409",
+  "private_key_id": "8556afe71387e07a3d14b6a2fe4acccd885130e3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC/97tR4riDHPCw\nYjuseV1be87y70GbrO8nGKJIEFMe8nKn+PjeGtbfS2Rxht614spln5EzCviLW4nd\ni4zIldj6hHQagXYUrNb+zo1Rn2nr2But1eEr8blTi7am8QlkrjKddfHuHIEmjGnu\nQ2PxV3pHJM4t3dRV/AtalnQW6OY6Xmf6UQygn/GH4cpCacs5FlASqRVKrNsJFUpN\nqPCiUhJbwJgck25RxZ00Zgs1ntQN/tklMuo/Y/IhtEaoyP3dOQYUebjBN6DEURT0\ngkruaDVoYU4vneVgwKY3qLxGFJnCCRUdPRvAXh3Ido4cmFU/FnEROCrlTAg6GeHC\nixqP3gr7AgMBAAECggEAHWBetQg57i6GkqdltF4aMD7BC6IbayRKsLPvWZHN9oVp\nkFTkWLDIwwD5jPnzqOfcyzJg+Our3z+R2Gpbj/KGcsfEMK4xELbma7XWIHCBuAqp\nKa/6NkxWbPeLav6lzldt/XSoIiUQioKgT0rWx374glyahKBWtxXL8v/lIgBgAvxd\njwE4/V4dYRk+GKZfkNM7AwIaVtNEsFNQiE1vul8faMVjX8oLU4jXpYmCdoRQ/Poh\neYyR8bQkYZ6kNWv81tr0NOt2FdzcXy64O0GRBOYgU3MlZA0OtDlwMy2EVhHF0Qq6\nO5J3knLPTQyscpy10STkEz6DIdidEP3ykBF3qJVSSQKBgQDloJPf+SMxAP2Jfjzx\no+KKIXkFe/FIzrtMzp6GyaeeSHj1x4dSdBwXmsUBp8dANJv2mHUG3I820ibnIC0E\nSBXfV2hJAdJtcxrQbTwUyhVbHIz6FqmV+6NYh02FN/lf06VPFLdiiUboMXS9A5sg\nB+JRbgN7WyUdmMqVoqUBdw0ZtwKBgQDWA+aT5EmavjdPPgYytubXkxIPUws5gpB9\n5tSAd56xCLec5AHyUgFaJSzx96ckUZXFsCUnWtBJuesb41/n2JUL8ILsw/3J61xr\nH9KY6mA/hHwqdac6WrjFd3DMAn0/uvdvL6/WcdDxVkYckhSNnaWUuMKgRBb3C7op\nE7jfe8fo3QKBgDshOnL2SKWZx6/cHf1rYi6HqA5NeDhzY6/HlPLIgq0zpFJF6wbE\nd2dsp0Zh2eEiqva5E4mMyiQnwXTKyEzN8zPr4iLKoVElzsXVGx+PWih4FaVgqJLC\nlbF6RfAEFecjLPJMN1zcVLH96j2x7AQ3g4PMfIELW2dfrOsTUsIp0enJAoGAd7mw\n6XVhs97L5FnHb+GgXGMbTFVhxyeCm9xhbwj8Tv+YcH2hlSVJOlvnu+mWqJu3lONI\nta55LXWD0JMv2Ozx3L8ND1VJigdQKWGhGAiuFXqRV9N/3QZZraZ3BLozxU5cE+hy\njx4XDJv+Fwel1d+mfP+raasNyeDWoRo2Z1fA60UCgYAraNeGL/5NbY63HqfJ0i09\n2UHI19pD5qy95adhFsSLG7p7QkUbzKVy/dR/hRkzv0ZblaJxf5lNFfLPFowB8zqd\n7e7rCcAc2pgq7Vip3gMo3uZWaDpzPqUNQwK8U4powAZGmQWdyawU6S5RO3yyWHGS\nisbmZIhLGvT5aqIzdKvquA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "google-analytics-pipeline@trans-century-211409.iam.gserviceaccount.com",
+  "client_id": "115023711087490530680",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/google-analytics-pipeline%40trans-century-211409.iam.gserviceaccount.com"
+}
